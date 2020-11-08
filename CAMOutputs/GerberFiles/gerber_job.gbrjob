@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2020-11-08T14:12:54Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "FUSB302-Breakout-ODG"
+        },
+        "Owner": "Shiao Peng <2920956602@qq.com>",
+        "Size": {
+            "X": 40.64,
+            "Y": 15.24
+        }
+    }
+}
