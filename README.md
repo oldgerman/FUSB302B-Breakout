@@ -26,7 +26,7 @@ For more details, please see:
 
 ### Can I run this code on Arduino uno, nano, micro or leonardo?
 
-No, they don't have enough SRAM(only 2KB)，It is recommended to use a processor with SRAM of 4KB and above，
+No, they don't have enough SRAM(only 2KB)，It is recommended to use a processor with SRAM of 4KB and above
 
 ### How can I run this code with stm32 on arduino ide？
 
@@ -36,13 +36,13 @@ Well, please see [Arduino_Core_STM32](https://github.com/stm32duino/Arduino_Core
 
 In theory, all MCUs supported by stm32duino support.
 
-| MCU           | SRAM | Has it been tested？ |
-| ------------- | ---- | -------------------- |
-| STM32F030F4P6 | 4KB  | :yellow_heart:       |
-| STM32F072CBT6 | 16KB | 💚                    |
-| STM32F103C8T6 | 20KB | :yellow_heart:       |
-| ...           | ...  | ...                  |
-| ESP8266       | 16KB | 💚                    |
+| MCU           | SRAM  | Has it been tested？ |
+| ------------- | ----- | -------------------- |
+| STM32F030F4P6 | 4KB   | :yellow_heart:       |
+| STM32F072CBT6 | 16KB  | 💚                    |
+| STM32F103C8T6 | 20KB  | :yellow_heart:       |
+| ...           | ...   | ...                  |
+| ESP8266       | 32KB? | 💚                    |
 
 ## Pictures
 
