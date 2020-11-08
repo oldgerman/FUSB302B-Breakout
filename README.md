@@ -68,5 +68,5 @@ The smallest system board used in the test is based on STM32F072CBT6, for more d
 
 -  [GreatScott!](https://www.instructables.com/member/GreatScottLab/)
 -  [Reclaimer Labs](https://www.reclaimerlabs.com/) 
-- [STM32duno](https://github.com/stm32duino)
+- [STM32duino](https://github.com/stm32duino)
 
