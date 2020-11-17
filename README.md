@@ -46,23 +46,20 @@ In theory, all MCUs supported by stm32duino support.
 
 ## Pictures
 
-The smallest system board used in the test is based on STM32F072CBT6, for more details, please see: [DarkPill](https://github.com/oldgerman/DarkPill)
+- The smallest system board used in the test is based on STM32F072CBT6, for more details, please see: [DarkPill](https://github.com/oldgerman/DarkPill)
+- The PD charger used in test is XiaoMi AD651(65W), [report of disassembly](http://www.chongdiantou.com/wp/archives/46359.html)
 
 <table>
     <td><img src = "images/FUSB302B-EVM.png"</td>
-        <td><img src = "images/5V.png"</td>
-            <td><img src = "images/9V.png"</td>
+    <td><img src = "images/5V.jpg"</td>
+    <td><img src = "images/9V.jpg"</td>
 </table>
-
 
 <table>
-    <td><img src = "images/12V.png"</td>
-        <td><img src = "images/15V.png"</td>
-            <td><img src = "images/20V.png"</td>
+    <td><img src = "images/12V.jpg"</td>
+    <td><img src = "images/15V.jpg"</td>
+    <td><img src = "images/20V.jpg"</td>
 </table>
-
-
-## 
 
 ## Acknowledgments
 
