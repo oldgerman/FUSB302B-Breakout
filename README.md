@@ -21,7 +21,7 @@ The code comes from the example of [Reclaimer Labs](https://www.reclaimerlabs.co
 
 For more details, please see:
 
-- DIY_USB_Type-C_Power_Delivery_Trigger_Board](https://www.instructables.com/DIY-USB-Type-C-Power-Delivery-Trigger-Board/)
+- [DIY_USB_Type-C_Power_Delivery_Trigger_Board](https://www.instructables.com/DIY-USB-Type-C-Power-Delivery-Trigger-Board/)
 - [usb-c-arduino---graycatlabs](https://github.com/graycatlabs/usb-c-arduino)
 - [USB-C-Explorer---ReclaimerLabs](https://github.com/ReclaimerLabs/USB-C-Explorer)
 
