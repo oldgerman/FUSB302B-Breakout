@@ -21,9 +21,9 @@ The code comes from the example of [Reclaimer Labs](https://www.reclaimerlabs.co
 
 For more details, please see:
 
-[DIY USB Type-C Power Delivery Trigger Board](https://www.instructables.com/DIY-USB-Type-C-Power-Delivery-Trigger-Board/)
-[usb-c-arduino---graycatlabs](https://github.com/graycatlabs/usb-c-arduino)
-[USB-C-Explorer---ReclaimerLabs]
+- DIY USB Type-C Power Delivery Trigger Board](https://www.instructables.com/DIY-USB-Type-C-Power-Delivery-Trigger-Board/)
+- [usb-c-arduino---graycatlabs](https://github.com/graycatlabs/usb-c-arduino)
+- [USB-C-Explorer---ReclaimerLabs](https://github.com/ReclaimerLabs/USB-C-Explorer)
 
 ### Can I run this code on Arduino uno, nano, micro or leonardo?
 
